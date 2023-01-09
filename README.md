@@ -8,6 +8,7 @@
   - [deadlock, starvation](https://blog.naver.com/vici2021/222519087793)
   - 캐시 메모리
   - 프로세스와 스레드
+  - 스케줄러의 종류
 - 디자인 패턴
   - MVC 패턴
 - 프로그래밍 패러다임
@@ -25,12 +26,12 @@
   - [선택정렬, 거품정렬, 삽입정렬, 퀵정렬](https://blog.naver.com/vici2021/222529844873)
   - 힙정렬, 병합정렬, 셸정렬
   - 다익스트라 알고리즘
-  - BFS, DFS
+  - [BFS, DFS](https://blog.naver.com/vici2021/222529846271)
 - 자료구조
-  - Stack vs Queue vs Deque
+  - [Stack vs Queue vs Deque](https://blog.naver.com/vici2021/222529842988)
   - 힙
   - 그래프와 트리
-  - 해시테이블
+  - [해시테이블](https://blog.naver.com/vici2021/222504351297)
  
 <br>
 <br>
