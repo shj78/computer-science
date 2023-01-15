@@ -7,7 +7,7 @@
   - [race condition, critical section](https://blog.naver.com/vici2021/222526827754)
   - [deadlock, starvation](https://blog.naver.com/vici2021/222519087793)
   - 캐시 메모리
-  - 프로세스와 스레드
+  - [프로세스와 쓰레드](https://blog.naver.com/vici2021/222985285645)
   - 스케줄러의 종류
 - 디자인 패턴
   - MVC 패턴
