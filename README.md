@@ -17,13 +17,13 @@
   - [객체지향 프로그래밍](https://blog.naver.com/vici2021/222531765071)
   - [함수형 프로그래밍](https://blog.naver.com/vici2021/222507798987)
 - 아키텍쳐
-  - RestAPI
+  - [RestAPI](https://blog.naver.com/vici2021/222531764191)
 - 소프트웨어 엔지니어링
   - TDD와 DDD
   - 쿠버네티스
 - 데이터 베이스
   - JOIN
-  - 정규화
+  - [정규화](https://blog.naver.com/vici2021/222347658058)
 - 알고리즘
   - [선택정렬, 거품정렬, 삽입정렬, 퀵정렬](https://blog.naver.com/vici2021/222529844873)
   - 힙정렬, 병합정렬, 셸정렬
